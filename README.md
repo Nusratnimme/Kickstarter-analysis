@@ -25,7 +25,7 @@ The table was pivoted to show data by theatre category only. The line chart, as 
 
 ### Analysis of Outcomes Based on Goals
 Since Louise' project is a play and she needs to raise $10000, we preapared a table on campaigns for subcategory play by goal amount. The goal amounts were grouped into 12 ranges starting at less than $1000 to more than $50000 to show numbers of successful, failed and canceled projects and their percentages. A line chart visualizes the data.
-![Outcomes_Goals](C:/Users/Nimme/Documents/MODULE 1_CHALLENGE/Resources.Outcomes_vs_Goals.png)
+![Outcomes_Goals](C:\Users\Nimme\Documents\MODULE 1_CHALLENGE\Resources.Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
