@@ -23,6 +23,8 @@ A pivot table which pivots on category and year was prepared where the rows give
 
 The table was pivoted to show data by theatre category only. The line chart, as a result shows relationship between campaign outcome based on which month of the year they were launched in.
 
+![theatre_launchDate](https://github.com/Nusratnimme/Kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.PNG)
+
 ### Analysis of Outcomes Based on Goals
 Since Louise' project is a play and she needs to raise $10000, we preapared a table on campaigns for subcategory play by goal amount. The goal amounts were grouped into 12 ranges starting at less than $1000 to more than $50000 to show numbers of successful, failed and canceled projects and their percentages. A line chart visualizes the data.
 ![Outcomes_Goals](https://github.com/Nusratnimme/Kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
