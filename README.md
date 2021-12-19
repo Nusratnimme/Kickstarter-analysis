@@ -4,7 +4,7 @@
 Louise, a playwright, wants to produce a play titled "Fever". She estimates that the project will cost $10,000. She aims to crowdfund the sum. She would like to get recommendation based on the Kickstarter dataset on how to make her campaign a success.
 
 ### Purpose
-The purpose of the analyses is to use data on over 4000 crowdfunding campaigns between 2009-2017 to advise Louise on campaign strategy. The data include campaign goal and pledge, start and end date, and campaign categories and subcategories. 
+The purpose of the analyses is to use data on over 4000 crowdfunding campaigns between 2009-2017 to advise Louise on campaign strategy. The data include campaign goal and outcomes, start and end date, and campaign categories and subcategories. 
 
 ## Analysis and Challenges
 To look at campaign outcomes based on the type of the project and when the campaign was launched, new columns was created by splitting category and subcategory of projects, and by converting campaign start and end date to standard date format. 
