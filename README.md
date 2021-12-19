@@ -11,6 +11,8 @@ To look at campaign outcomes based on the type of the project and when the campa
 
 Next, Pivot tables and accompanying charts were generated to see how campaigns performed depending on type of the project. The chart shows that most campaigns were for theatre projects where there are more successful campaings than failed ones.
 
+![Parent_category_outcomes](https://github.com/Nusratnimme/Kickstarter-analysis/blob/main/Parent_Category_Outcomes.png)
+
 As we drilled down with another pivot table with subcategories of the theatre category, we see that most campaigns are for projects in the play subcategory. Here in the play subcategory, there are almost twice as many successful campaigns as failed ones.
 
  
